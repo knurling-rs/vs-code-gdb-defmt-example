@@ -1,0 +1,4 @@
+*.svd
+.vscode/.*
+Cargo.lock
+target
