@@ -43,7 +43,7 @@
             // TODO adjust all these to fit your system, program and hardware
             "executable": "./target/thumbv7em-none-eabihf/debug/app",
             "gdbPath": "arm-none-eabi-gdb", // or gdb or multiarch-gdb
-            // "svdFile": "STM32L4x3.svd", // optional
+            // "svdFile": "nrf52840.svd", // optional
         }
     ]
 }
