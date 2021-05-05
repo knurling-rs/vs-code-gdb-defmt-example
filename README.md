@@ -2,7 +2,7 @@
 
 > app-template with GDB and defmt support
 
-> TODO add link to blog post when public
+For more information check out the [associated blog post](https://ferrous-systems.com/blog/gdb-and-defmt/)
 
 ## License
 
